@@ -29,13 +29,13 @@ In the backend of project directory, you can run:
 ## Using
 
 ### Register
-
+![](register.png)
 First, you should register your account. Please click `Register` button.
 
 ### Login
-
+![](login.png)
 Then, you can click `Login` button.
 
 ### Dashboard
-
+![](chart.png)
 You can show the chart by clicking `Chart` button.
