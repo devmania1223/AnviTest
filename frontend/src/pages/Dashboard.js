@@ -8,7 +8,7 @@ import CanvasJSReact from '../assets/canvasjs.react';
 import { checkAuth } from '../utils/auth';
 const CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
-const MAX_LENGTH = 1 * 60 * 4;
+const MAX_LENGTH = 2 * 60 * 4;
 
 const Dashboard = () => {
     const navigate = useNavigate();
